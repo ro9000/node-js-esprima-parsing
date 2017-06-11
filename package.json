@@ -1,8 +1,8 @@
 {
-  "name": "and-express",
+  "name": "node-js-esprima-parsing",
   "version": "1.0.0",
   "description": "",
-  "main": "and-express.js",
+  "main": "node-js-esprima-parsing.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
